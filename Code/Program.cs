@@ -12,5 +12,5 @@ for (int n = 0; n < 15; n++)
         s += i;
         i = i / 2;
     }
-    Console.WriteLine($"n: {n}  count: {count}");
+    Console.WriteLine($"Для числа n: {n}  количество операций count: {count}");
 }
